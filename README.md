@@ -1,1 +1,1 @@
-# How Artificial Intelligence Works in Mercado-Libre Product Ads
+# How Artificial Intelligence Works in Mercado Libre Product Ads
