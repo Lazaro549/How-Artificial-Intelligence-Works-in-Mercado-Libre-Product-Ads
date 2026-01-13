@@ -120,5 +120,16 @@ Artificial Intelligence is the core of Product Ads. It’s not about spending mo
 Mastering how AI works in Mercado Libre allows you to **sell more**, **spend smarter**, and **compete efficiently**.
 
 ---
+## Project Scope
+
+This repository focuses on:
+- Educational simulation of Product Ads logic
+- Decision-making models based on campaign metrics
+- Ethical and policy-compliant experimentation
+
+It does NOT:
+- Access private Mercado Libre systems
+- Automate real bidding
+- Scrape platform data
 
 📌 *This repository is for educational purposes and is not officially affiliated with Mercado Libre.*
