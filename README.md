@@ -1,4 +1,36 @@
 # How Artificial Intelligence Works in Mercado Libre Product Ads
+flowchart TD
+    A[Campaign Data<br/>Impressions · Clicks · Sales · Revenue · Ad Spend]
+    
+    A --> B[Data Validation Layer]
+    B -->|Valid data| C[Metrics Calculation]
+    B -->|Invalid data| Z[Error Handling]
+
+    C --> D[Core Metrics]
+    D --> D1[CTR]
+    D --> D2[Conversion Rate]
+    D --> D3[ACOS]
+
+    D --> E[Predictive AI Model]
+    E -->|Sales Forecast| F[Performance Evaluation]
+
+    F --> G[Decision Engine]
+    G -->|High ACOS| H[Reduce Bid / Pause]
+    G -->|Efficient ACOS + High CVR| I[Scale Budget]
+    G -->|Low Conversion| J[Improve Listing Quality]
+
+    G --> K[ACOS Optimizer]
+    K -->|Optimized Target ACOS| L[Bidding Strategy]
+
+    L --> M[Ad Rank Simulation]
+    M --> N[Second Best Price Auction]
+
+    N --> O[Campaign Output]
+    O --> O1[Next Target ACOS]
+    O --> O2[Recommended Action]
+    O --> O3[Logged Decision]
+
+    O --> P[Visualization Layer]
 
 This repository explains in a clear and practical way how **Artificial Intelligence (AI)** works within **Mercado Libre Product Ads**, how it influences product visibility, and how sellers can leverage it to optimize their advertising campaigns.
 
