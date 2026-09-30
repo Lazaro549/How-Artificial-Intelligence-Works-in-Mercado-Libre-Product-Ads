@@ -134,3 +134,12 @@ It does NOT:
 - Scrape platform data
 
 📌 *This repository is for educational purposes and is not officially affiliated with Mercado Libre.*
+## 💸 Donations
+
+If you'd like to support this project:
+
+- 🇦🇷 ARS (Argentina)  
+  Alias: `lazaro.503.alaba.mp`
+
+- 🌎 USD (Argentina only, local transfers)  
+  Alias: `ahogada.duras.foca`
